@@ -2,6 +2,9 @@
 
 This is a counter app that allows users to count number either by increasing, decreasing and resetting.
 
+# Screenshot
+<img src="image/Screenshot from 2022-11-10 13-49-25.png">
+
 # How to run the app
 ``git clone``: git@github.com:moise-mulungu/counter.git
 
